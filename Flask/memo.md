@@ -28,4 +28,4 @@ index.html
 </body>
 </html>
 ```
-app.pyからhtmlへ渡されるのは、return render_template()の<strong>msg</strong>
+注意:app.pyからhtmlへ渡されるのは、return render_template()の<strong>msg</strong>
